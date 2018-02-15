@@ -205,3 +205,9 @@ li a.active {
     color: black;
 }
 
+.quote{
+	text-align: center;
+	font-style: italic;
+	width: 400px;
+	height: auto;
+}

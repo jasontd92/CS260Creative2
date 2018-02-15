@@ -62,7 +62,7 @@ h3 {
 .textbox{
   margin: 10px;
   background-color: white;
-  padding-right: 5px;
+  padding-right: 10px;
   padding-left: 5px;
   border: 1px white;
   opacity: 1;
@@ -205,3 +205,8 @@ li a.active {
     color: black;
 }
 
+.quote{
+	text-align: center;
+	width: 400px;
+	height: auto;
+}
