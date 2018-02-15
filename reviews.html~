@@ -9,7 +9,7 @@
 <body>
 
 <header>
-	<p>The FireFly is now available for <a href="products.html" class = "active" >PRE-ORDER</a>
+	<p>The FireFly is now available for <a href="buy.html" class = "active" >PRE-ORDER</a>!!
 	</p>
 </header>
 
@@ -18,6 +18,7 @@
   <li><a href="about.html">About</a></li>
   <li><a href="reviews.html" class = "active">Use</a></li>
   <li><a href="products.html">Shop</a></li>
+  <li><a href="news.html">In the News</a></li>
   <li><a href="contact.html">Contact</a></li>
 </ul> 
 <h1>TRAIN WITHOUT FEAR</h1>

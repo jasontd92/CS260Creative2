@@ -14,35 +14,28 @@
 </header>
 
  <ul>
-  <li><a href="index.html" >Home</a></li>
+  <li><a href="index.html">Home</a></li>
   <li><a href="about.html">About</a></li>
   <li><a href="reviews.html">Use</a></li>
-  <li><a href="portfolio.html" class = "active" >Shop</a></li>
-  <li><a href="news.html">In the News</a></li>
+  <li><a href="products.html">Shop</a></li>
+  <li><a href="news.html"class = "active">In the News</a></li>
   <li><a href="contact.html">Contact</a></li>
 </ul> 
-<h1>Products</h1>
+<h1>DC Mountaineering in the News</h1>
 
-<center>
-<div class="row">
-  <div class="column">
-    <a href="buy.html"><img src="fireflyproduct.jpg" style="width:25%"></a>
-    <img src="Coming-soon.jpg" style="width:25%">
-    <img src="Coming-soon.jpg" style="width:25%">
-    <img src="Coming-soon.jpg" style="width:25%">
-    <img src="Coming-soon.jpg" style="width:25%">
-    <img src="Coming-soon.jpg" style="width:25%">
-    <img src="Coming-soon.jpg" style="width:25%">
-    <img src="Coming-soon.jpg" style="width:25%">
-    <img src="Coming-soon.jpg" style="width:25%">
+<p> 
+<a href="https://www.geeky-gadgets.com/recover-your-lost-climbing-equipment-27-10-2017/" class = "active" >Geeky Gadgets </a>
+<br>
+<a href="https://backit.com/project/425101/the-firefly-recover-your-lost-climbing-gear/campaign" class = "active" >BackIt </a>
+<br>
+<a href="http://provoutah.us/kewl.html?id=4925&dt=2017-11-09" class = "active" >Provo Site of the Day </a> (Nov 11, 2017)
 
-  </div>
-</div>
-</center>
+</p>
+
 
 <footer>
 	<!-- Add icon library -->
-	<br><br>
+	<br>
 	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 	<!-- Add font awesome icons -->
 	<a href="https://www.facebook.com/DCMountaineering/" class="fa fa-facebook"></a>

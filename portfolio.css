@@ -39,6 +39,7 @@ h3 {
     background-image: url("snow-cover-white.jpg");
 
     /* Set a specific height */
+    
     height: 50%;
 
     /* Position and center the image to scale nicely on all screens */
@@ -50,12 +51,21 @@ h3 {
 
 /* Place text in the middle of the image */
 .hero-text {
+	text-shadow: 3px 3px white;
     text-align: center;
     position: absolute;
     top: 10%;
     left: 50%;
     transform: translate(-50%, -50%);
     color: black;
+}
+.textbox{
+  margin: 10px;
+  background-color: white;
+  padding-right: 10px;
+  padding-left: 5px;
+  border: 1px white;
+  opacity: 1;
 }
 
 footer{
@@ -83,6 +93,20 @@ footer{
 	.fa-facebook {
 	    background: #3B5998;
 	    color: white;
+	}
+	
+	/* Twitter */
+	.fa-twitter {
+    	background: #55ACEE;
+    	color: white;
+	}
+	.fa-instagram {
+  		background: #bc2a8d;
+  		color: white;
+	}
+	.fa-linkedin {
+  		background: #007bb5;
+ 	 	color: white;
 	}
 p {
     margin-left: 20px;
