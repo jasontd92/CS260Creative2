@@ -45,8 +45,8 @@
 	</div>
     
    <div class="qoute">
-    <div id="quote-content">Content: </div>
-    <div id="quote-title">Title: </div>
+    <div id="quote-content"></div>
+    <div id="quote-title"></div>
    </div>
 
 <footer>
