@@ -205,9 +205,14 @@ li a.active {
     color: black;
 }
 
-.quote{
+#quote-content{
 	text-align: center;
 	font-style: italic;
+	width: 400px;
+	height: auto;
+}
+#quote-title{
+	text-align: center;
 	width: 400px;
 	height: auto;
 }

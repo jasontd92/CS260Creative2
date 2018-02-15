@@ -39,13 +39,15 @@
 
 	<div class="box">
 		<form>
-		  <label>Need some inspiration?</label>
-		  <input id="get-another-quote-button" type="submit" value="Sumbit"></input>
+		  <label>Inspiration button:</label>
+		  <input id="get-another-quote-button" type="submit" value="Yes Please!"></input>
 		</form>
 	</div>
     
-    <div id="quote-title">Title: </div>
+   <div class="qoute">
     <div id="quote-content">Content: </div>
+    <div id="quote-title">Title: </div>
+   </div>
 
 <footer>
 	<!-- Add icon library -->

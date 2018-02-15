@@ -207,6 +207,7 @@ li a.active {
 
 .quote{
 	text-align: center;
+	font-style: italic;
 	width: 400px;
 	height: auto;
 }
